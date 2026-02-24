@@ -1,6 +1,8 @@
 # audio_classification
 Create an audio classification model that processes environmental audio.
+# Setup
 
+Make sure you have the ESC-50 folder with all of its contents and the esc50.csv in the root directory. You can download the ESC-50 dataset here: https://github.com/karolpiczak/ESC-50
 
 # How to run
 
